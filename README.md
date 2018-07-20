@@ -51,7 +51,7 @@
 ## 开发
 ```bash
 # 克隆项目
-git clone https://github.com/mgbq/nx-admin.git
+git clone https://github.com/mgbq/nxAdmin-template.git
 
 # 安装依赖
 npm install
@@ -91,5 +91,5 @@ npm run lint -- --fix
 
 ## License
 
-[MIT](https://github.com/mgbq/nx-admin/blob/master/LICENSE)
+[MIT](https://github.com/mgbq/nxAdmin-template/blob/master/LICENSE)
 Copyright (c) 2018-present nxmin
