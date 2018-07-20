@@ -34,7 +34,7 @@
 [线上地址](http://mgbq.github.io/nxAdmin-template)
 
 ## Extra
-如果你想要根据用户角色来动态生成侧边栏和router，你可以使用改分支[permission-control](https://github.com/PanJiaChen/vueAdmin-template/tree/permission-control)
+如果你想要根据用户角色来动态生成侧边栏和router，你可以使用改分支[permission-control](https://github.com/mgbq/nx-admin/releases/tag/v1.0.0)
  
  ## 相关项目
  [nx-admin](https://github.com/mgbq/nx-admin)
