@@ -28,7 +28,7 @@ English | [简体中文](./README.md)
 
 > A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
 
-**Live demo:** http://panjiachen.github.io/vueAdmin-template
+**Live demo:** http://mgbq.github.io/vueAdmin-template
 
 
  ## related documents
@@ -41,7 +41,7 @@ English | [简体中文](./README.md)
 If you want router permission && generate menu by user roles , you can use this branch [permission-control](https://github.com/mgbq/nx-admin/releases/tag/v1.0.0)
 
 ## Related Project
- [nx-admin](https://github.com/mgbq/nx-admin)
+ [nx-admin](https://github.com/mgbq/nxdmin)
 
 
 ## download
@@ -72,7 +72,7 @@ You are welcome to contribute to the development of nxAdmin-template (code writi
 
 ```bash
 # clone the project
-git clone https://github.com/mgbq/nx-admin.git
+git clone https://github.com/mgbq/nxAdmin-template.git
 
 # install dependency
 npm install
@@ -110,5 +110,5 @@ npm run lint -- --fix
 
 ## License
 
-[MIT](https://github.com/mgbq/nx-admin/blob/master/LICENSE)
+[MIT](https://github.com/mgbq/nxAdmin-template/blob/master/LICENSE)
 Copyright (c) 2018-present nxAdmin-template
