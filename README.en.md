@@ -28,7 +28,7 @@ English | [简体中文](./README.md)
 
 > A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
 
-**Live demo:** http://mgbq.github.io/vueAdmin-template
+**Live demo:** http://mgbq.github.io/nxAdmin-template
 
 
  ## related documents
