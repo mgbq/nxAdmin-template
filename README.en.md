@@ -111,4 +111,4 @@ npm run lint -- --fix
 ## License
 
 [MIT](https://github.com/mgbq/nx-admin/blob/master/LICENSE)
-Copyright (c) 2018-present nxmin
+Copyright (c) 2018-present nxAdmin-template
