@@ -7,13 +7,13 @@ export default {
   info: {
     title: 'nx-admin',
     list: [
-      'nx-admin 是一个基于XXXX工程可视化管理平台，采用token交互验证方式。',
-      '您可以 nx-admin 为基础，不只限制于vue的页面，你可以嵌入任意第三方网站，基于iframe框架。',
-      'nx-admin 构建简单上手快，最大程度上帮助企业节省时间成本和费用开支。'
+      'nxAdmin-template 是一个基于XXXX工程可视化管理平台，采用token交互验证方式。',
+      '您可以 nxAdmin-template 为基础，不只限制于vue的页面，你可以嵌入任意第三方网站，基于iframe框架。',
+      'nxAdmin-template 构建简单上手快，最大程度上帮助企业节省时间成本和费用开支。'
     ]
   },
   wel: {
-    title: 'nx-admin 通用管理系统快速开发框架',
+    title: 'nxAdmin-template 通用管理系统快速开发框架',
     list: [
       'vuex本地持久化存储,封装h5的sessionStorage和localStorage',
       '加入了本地离线的包引入方法去引入vue，vue-router等第三方包',
