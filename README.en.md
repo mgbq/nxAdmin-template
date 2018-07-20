@@ -51,7 +51,7 @@ git：`git clone https://github.com/mgbq/nx-admin.git`
 npm：`npm install`
 
 
-## Preview [nx-admin](https://mgbq.github.io/vue-permission/#/login)
+## Preview [nxAdmin-template](https://mgbq.github.io/nxAdmin-template/#/login)
 
 test account:
 
@@ -65,7 +65,7 @@ test account:
 
 
 
-You are welcome to contribute to the development of nx-admin (code writing/document translation)。
+You are welcome to contribute to the development of nxAdmin-template (code writing/document translation)。
 
 
 ## Getting started
