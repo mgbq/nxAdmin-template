@@ -41,7 +41,7 @@ English | [简体中文](./README.md)
 If you want router permission && generate menu by user roles , you can use this branch [permission-control](https://github.com/mgbq/nx-admin/releases/tag/v1.0.0)
 
 ## Related Project
- [nx-admin](https://github.com/mgbq/nxdmin)
+ [nx-admin](https://github.com/mgbq/nx-admin)
 
 
 ## download
